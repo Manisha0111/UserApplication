@@ -12,6 +12,7 @@
 	<artifactId>SpringBootUserApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>07-UserApplication</name>
+	<packaging>war</packaging>
 	<description>Demo project for Spring Boot UserApplication</description>
 	<properties>
 		<java.version>1.8</java.version>
